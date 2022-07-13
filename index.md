@@ -14,7 +14,8 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
 <p style="text-align:center">
                 <a href="mailto:uzair.khattak@mbzuai.ac.ae">Email</a> &emsp;/&emsp;
                 <a href="https://scholar.google.es/citations?user=M6fFL4gAAAAJ&hl=en">Google Scholar</a> &emsp;/&emsp;
-                <a href="https://github.com/muzairkhattak">Github</a>
+                <a href="https://github.com/muzairkhattak">Github</a> &emsp;/&emsp;
+                <a href="https://www.linkedin.com/in/muhammad-uzair-khattak-204ba1150/">LinkedIn</a>
               </p>
               
 <br>
