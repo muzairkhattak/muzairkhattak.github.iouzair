@@ -15,9 +15,14 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" style="max-width: 64rem; margin: auto;" role="banner">
+    <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline" style="color:navajowhite;">
+                <a href="mailto:uzair.khattak@mbzuai.ac.ae" style="color:navajowhite;">Email</a> &emsp;&emsp;
+                <a href="https://scholar.google.es/citations?user=M6fFL4gAAAAJ&hl=en" style="color:navajowhite;">Google Scholar</a> &emsp;&emsp;
+                <a href="https://github.com/muzairkhattak" style="color:navajowhite;">Github</a> &emsp;&emsp;
+                <a href="https://www.linkedin.com/in/muhammad-uzair-khattak-204ba1150/" style="color:navajowhite;">LinkedIn</a>
+      </h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">arXiv</a>
        <a href="{{ site.github.repository_url }}" class="btn">Code</a>
