@@ -6,12 +6,13 @@
 </ul>
 
 
- <tr style="padding:0px">
+
+    <tr style="padding:0px">
         <td style="padding:0px">
             <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
-
-                    <td style="padding:2.5%;width:40%;max-width:40%">
+                <tr style="padding:0px">
+                    <td style="padding:2.5%;width:63%;vertical-align:middle">
                        <p align="justify">
 Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in the <a href="https://mbzuai-cv-lab.netlify.app//">Computer Vision Lab</a> at <a href="https://mbzuai.ac.ae">Mohamed Bin Zayed University of Artificial Intelligence </a>. I am advised by <a href="https://scholar.google.es/citations?user=M59O9lkAAAAJ">Dr. Salman Khan</a> and <a href="https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en">Dr. Fahad Khan</a>. At MBZUAI, my overall research focus is on <b>object recognition and detection using multi-modal (text and vision) transformers </b>. Currently, I am carrying research on <b>prompt learning for adapting large-scale vision-language models for few-shot and zero-shot learning</b>. 
 </p>
