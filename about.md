@@ -5,6 +5,7 @@
   <li><a href="#contact">Resume</a></li>
 </ul>
 
+<p align="justify">
 Before joining MBZUAI, I completed my undergraduate degree in Electrical Engineering from the National University of Sciences and Technology, Pakistan. My Undergrad studies has been more focused on Deep Learning, Computer Vision, and Embedded Systems. 
 <br>
 <br>
