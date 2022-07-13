@@ -2,7 +2,7 @@
   <li><a href="index">Profile</a></li>
   <li><a href="projects">Projects</a></li>
   <li><a class="active" href="about">About</a></li>
-  <li><a href="#contact">Resume</a></li>
+  <li><a href="files/MuhammadUzairKhattak.pdf">Resume</a></li>
 </ul>
 
 <p align="justify">
