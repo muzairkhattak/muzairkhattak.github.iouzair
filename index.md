@@ -21,7 +21,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
      <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">“Transformers in Vision”</a>
   </li>  
       <li>
-    <b>[Nov-2021]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
+    <b>[Feb-2022]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
   </li>  
   <li>
     <b>[Dec-2021]</b> Our team won third position in Hack for Space hackathon organized by G42 and #CodersHQ!
