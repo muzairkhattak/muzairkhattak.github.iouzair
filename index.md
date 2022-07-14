@@ -18,7 +18,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
      <b>[June-2022]</b> I attended CVPR-2022 Computer Vision conference virtually.
   </li>  
      <li>
-     <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">“Transformers in Vision”</a>
+     <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">Transformers in Vision</a>
   </li>  
       <li>
     <b>[Feb-2022]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
@@ -36,7 +36,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[Aug-2021]</b> I Joined <a href="https://mbzuai.ac.ae">MBZUAI</a> as a Computer Vision graduate research student.
   </li>
     <li>
-      <b>[July-2021]</b> Participated in AI workshop <b><a href="https://ai-lounge.com/ai-news/">AI at the Edge”</a></b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas.
+      <b>[July-2021]</b> Participated in AI workshop <b><a href="https://ai-lounge.com/ai-news/">AI at the Edge</a></b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas.
   </li>    
     <li>
     <b>[April-2021]</b> Our undergraduate project titled <b>"Whole Slide Image Scanner with Deep Learning Applications"</b> won rector's Gold Medal award, NUST, Pakistan. <a href="">(presentation slides) </a>
