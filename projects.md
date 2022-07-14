@@ -26,11 +26,11 @@ Below, I have enlisted selected academic projects.
   <a href="https://github.com/muzairkhattak/PAK-COVID-19-Citywise-and-District-wise-analysis">Code/GitHub </a>
   <ul>
     <li>
-  We developed an interactive dashboard showing the spread behaviour of COVID-19 in Pakistan. We collected Pakistan COVID19 data from various sources including Kaggle and preprocessed it using Python tools </li>
+  We developed an interactive dashboard showing the spread behaviour of COVID-19 in Pakistan. We collected Pakistan COVID19 data from various sources including Kaggle and preprocessed it using Python tools. </li>
         <li>
-  Generated district-wise dataset and 2D graphs of various count metrics </li>
+  Generated district-wise dataset and 2D graphs of various count metrics. </li>
         <li>
-  Visualized district-wise dataset on Pakistan maps using Tableau </li>
+  Visualized district-wise dataset on Pakistan maps using Tableau. </li>
   </ul>
 </td>
 
