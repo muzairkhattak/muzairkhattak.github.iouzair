@@ -46,7 +46,10 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
   </li>  
     <li>
       <b>[Dec-2020]</b> Delivered hands-on workshop on <b>Deep Learning with PyTorch</b>, organized by IEEE SEECS and NUST Cyber Security Club. <a href="https://www.youtube.com/watch?v=w6BqCdB9BsY">(session recording) </a>
-  </li>    
+  </li>  
+  <li>
+    <b>[Oct-2020]</b> Published a blog on <b>PyTorch vs TensorFlow</b> on Ai Lounge official webpage. <a href="https://ai-lounge.com/pytorch-vs-tensorflow/">view blog</a> 
+  </li>  
     <li>
     <b>[Oct-2020]</b> Attended <a href="https://nvidianews.nvidia.com/news/nvidia-announces-gtc-2020-keynote-with-ceo-jensen-huang-set-for-may-14">NVIDIA GTC-2020 </a> conference virtually. 
   </li>  
