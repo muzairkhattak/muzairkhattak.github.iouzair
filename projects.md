@@ -1,4 +1,4 @@
-<ul>
+<ul class="sticky">
   <li><a href="index">Home</a></li>
   <li><a class="active" href="projects">Projects</a></li>
   <li><a href="about">About</a></li>
@@ -18,7 +18,7 @@
         </tbody></table> -->
         
         
-<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:#ffffff"">
 <tbody>
 
 <tr>
