@@ -15,13 +15,13 @@ https://mbzuai.ac.ae/news-events/MBZUAI-students-take-first-place-honors-at-Hack
 
  <ul>
       <li>
-    <b>[Nov-2021]</b> Our team won second position in <b>Road & Transport Authority - RTA TRANSPORT HACKATHON, 2022!</b> <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(Read more) </a>
+    <b>[Nov-2021]</b> Our team won second position in <b>Road & Transport Authority - RTA TRANSPORT HACKATHON, 2022!</b> <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
   </li>  
   <li>
-    <b>[Dec-2021]</b> Our team won third position in <b>#HackForSpace hackathon organized by G42 and #CodersHQ!</b>
+    <b>[Dec-2021]</b> Our team won third position in <b> Hack for Space hackathon organized by G42 and #CodersHQ!</b>
   </li>  
     <li>
-    <b>[Nov-2021]</b> Our team won first position in Agrithon challenge, organized by Abu Dhabi Agriculture and Food Security Authority! <a href="https://mbzuai.ac.ae/news-events/Innovating-Agritech-serving-the-nation">(Read more) </a>
+    <b>[Nov-2021]</b> Our team won first position in Agrithon challenge, organized by Abu Dhabi Agriculture and Food Security Authority! <a href="https://mbzuai.ac.ae/news-events/Innovating-Agritech-serving-the-nation">(more details) </a>
   </li>  
   <li>
     <b>[Sept-2021]</b> We participated in MBZUAI Cats vs Dogs AI challenge and won first prize! <a href="https://github.com/muzairkhattak/Final-code">(Code / Report) </a>
@@ -30,7 +30,7 @@ https://mbzuai.ac.ae/news-events/MBZUAI-students-take-first-place-honors-at-Hack
     <b>[Aug-2021]</b> Joined <a href="https://mbzuai.ac.ae">MBZUAI</a> as a Computer Vision graduate research student.
   </li>
     <li>
-      <b>[July-2021]</b> Participated in AI workshop <b>”AI at the Edge”</b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas <a href="https://ai-lounge.com/ai-news/">(Read more) </a>
+      <b>[July-2021]</b> Participated in AI workshop <b>”AI at the Edge”</b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas <a href="https://ai-lounge.com/ai-news/">(more details) </a>
   </li>    
     <li>
     <b>[April-2021]</b> Our undergraduate project titled <b>"Whole Slide Image Scanner with Deep Learning Applications"</b> won rector's Gold Medal award, NUST, Pakistan. <a href="">(presentation slides) </a>
