@@ -43,7 +43,7 @@ Below, I have enlisted selected academic projects.
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<p style="align:center"><img src='files/finegrain_project.jpeg' width="500" style="width:200px;height: auto;align:center;"></p>
+<p align="center"><img src='files/finegrain_project.jpeg' width="500" style="width:200px;height: auto;align:center;"></p>
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
