@@ -17,6 +17,33 @@ Below, I have enlisted selected academic projects.
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
+<img src='files/finegrain_project.jpeg' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Learning with Knowledge Distillation for Fine Grained Image Classification</strong></font>
+  <br>
+ <a href="https://github.com/muzairkhattak/DeiT_ConvNeXt_KnowledgeDistillation">Code</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/DeiT_ConvNeXt_KnowledgeDistillation/blob/deit_convnext/FGVC_report.pdf">Technical report</a>
+  <ul>
+    <li>
+ In this project, we explored advanced CNNs (ConvNexts) and ViTs (DeiT) for the task of fine-grained image classification.</li>
+            <li>
+  On custom challenging fine-grain visual dataset, we combined the benefits of both ConvNext and DeiT models by applying knowledge distillation in the finetuning stage. </li>
+  </ul>
+</td>
+
+</tr>    
+        
+</tbody>
+</table>
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
 <img src='files/transformers_project.jpeg' width="500">
 </div>
 </td>
@@ -61,7 +88,7 @@ CIFAR100 and CUB-200 </li>
     <li>
  In this project, we revisited the classical techniques for image stitching. We explored different feature detectors and descriptors techniques (SIFT, SURF etc.) to obtain robust feature points to be used for image stitching.</li>
         <li>
-  We experimented with different photometric correction methods to seamlessly blend the overlapping parts of stitched images</li>
+  We experimented with different photometric correction methods to seamlessly blend the overlapping parts of stitched images.</li>
   </ul>
 </td>
 
