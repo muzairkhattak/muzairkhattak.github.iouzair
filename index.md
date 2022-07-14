@@ -18,7 +18,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
      <b>[June-2022]</b> I attended <b>CVPR-2022</b> Computer Vision conference virtually.
   </li>  
       <li>
-    <b>[Nov-2021]</b> Our team won second position in <b>Road & Transport Authority - RTA TRANSPORT HACKATHON, 2022!</b> <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
+    <b>[Nov-2021]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
   </li>  
   <li>
     <b>[Dec-2021]</b> Our team won third position in <b> Hack for Space hackathon organized by G42 and #CodersHQ!</b>
@@ -33,7 +33,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[Aug-2021]</b> Joined <a href="https://mbzuai.ac.ae">MBZUAI</a> as a Computer Vision graduate research student.
   </li>
     <li>
-      <b>[July-2021]</b> Participated in AI workshop <b>”AI at the Edge”</b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas <a href="https://ai-lounge.com/ai-news/">(more details) </a>
+      <b>[July-2021]</b> Participated in AI workshop <b><<a href="https://ai-lounge.com/ai-news/">AI at the Edge”</a></b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas.
   </li>    
     <li>
     <b>[April-2021]</b> Our undergraduate project titled <b>"Whole Slide Image Scanner with Deep Learning Applications"</b> won rector's Gold Medal award, NUST, Pakistan. <a href="">(presentation slides) </a>
@@ -48,7 +48,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[Oct-2020]</b> Attended <a href="https://nvidianews.nvidia.com/news/nvidia-announces-gtc-2020-keynote-with-ceo-jensen-huang-set-for-may-14">NVIDIA GTC-2020 </a> conference virtually. 
   </li>  
       <li>
-    <b>[Aug-2019]</b> I was awarded participation grant for 3rd IAPR Summer School on Document Analysis, Islamabad, Pakistan. <a href="http://pprs.org.pk/events/ssda2019.html">(more details) </a>
+    <b>[Aug-2019]</b> I was awarded participation grant for <a href="http://pprs.org.pk/events/ssda2019.html">3rd IAPR Summer School on Document Analysis</a>, Islamabad, Pakistan.
   </li>   
 </ul> 
 
