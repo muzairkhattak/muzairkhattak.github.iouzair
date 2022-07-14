@@ -30,7 +30,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[Sept-2021]</b> We participated in MBZUAI Cats vs Dogs AI challenge and won first prize! <a href="https://github.com/muzairkhattak/Final-code">(Code / Report) </a>
   </li>  
   <li>
-    <b>[Aug-2021]</b> Joined <a href="https://mbzuai.ac.ae">MBZUAI</a> as a Computer Vision graduate research student.
+    <b>[Aug-2021]</b> I Joined <a href="https://mbzuai.ac.ae">MBZUAI</a> as a Computer Vision graduate research student.
   </li>
     <li>
       <b>[July-2021]</b> Participated in AI workshop <b><<a href="https://ai-lounge.com/ai-news/">AI at the Edge”</a></b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas.
