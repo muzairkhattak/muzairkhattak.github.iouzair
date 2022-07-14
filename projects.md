@@ -49,6 +49,34 @@ CIFAR100 and CUB-200 </li>
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
+<img src='files/sift_project.png' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Image Stitching Using Homography Techniques</strong></font>
+  <br>
+ <a href="">Code</a>&nbsp;/&nbsp;<a href="">Technical report</a>
+  <ul>
+    <li>
+ In this project, we revisited the classical techniques for image stitching. We explored different feature detectors and descriptors techniques (SIFT, SURF etc.) to obtain robust feature points to be used for image stitching.</li>
+        <li>
+  We experimented with different photometric correction methods to seamlessly blend the overlapping parts of stitched images</li>
+  </ul>
+</td>
+
+</tr>    
+        
+</tbody>
+</table>
+
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
 <img src='files/tensorrt_project.gif' width="500">
 </div>
 </td>
