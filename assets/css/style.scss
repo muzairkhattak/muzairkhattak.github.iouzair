@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-ul {
+ul_class {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -10,11 +10,11 @@ ul {
   background-color: #333;
 }
 
-li {
+li_class {
   float: left;
 }
 
-li a {
+li_class a {
   display: block;
   color: white;
   text-align: center;
@@ -22,7 +22,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+li_class a:hover:not(.active) {
   background-color: #111;
 }
 
