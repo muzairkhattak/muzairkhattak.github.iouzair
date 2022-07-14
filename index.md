@@ -18,7 +18,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
      <b>[June-2022]</b> I attended CVPR-2022 Computer Vision conference virtually.
   </li>  
      <li>
-     <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">Transformers in Vision</a>
+     <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">Transformers in Vision</a>.
   </li>  
       <li>
     <b>[Feb-2022]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
@@ -42,7 +42,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[April-2021]</b> Our undergraduate project titled <b>"Whole Slide Image Scanner with Deep Learning Applications"</b> won rector's Gold Medal award, NUST, Pakistan. <a href="">(presentation slides) </a>
   </li>
     <li>
-    <b>[Dec-2020]</b> Selected as NVIDIA certified Jetson AI specialist <a href="https://www.linkedin.com/posts/muhammad-uzair-khattak-204ba1150_embedded-nvidiajetson-deeplearning-activity-6735567828964909056-MxQo?utm_source=linkedin_share&utm_medium=member_desktop_web">(certification) </a>
+    <b>[Dec-2020]</b> Selected as NVIDIA certified Jetson AI specialist! <a href="https://www.linkedin.com/posts/muhammad-uzair-khattak-204ba1150_embedded-nvidiajetson-deeplearning-activity-6735567828964909056-MxQo?utm_source=linkedin_share&utm_medium=member_desktop_web">(certification) </a>
   </li>  
     <li>
       <b>[Dec-2020]</b> Delivered hands-on workshop on <b>Deep Learning with PyTorch</b>, organized by IEEE SEECS and NUST Cyber Security Club. <a href="https://www.youtube.com/watch?v=w6BqCdB9BsY">(session recording) </a>
