@@ -17,7 +17,7 @@ Below, I have enlisted selected academic projects.
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/heart_beat.jpeg' width="500">
+<img src='files/mask_project.gif' width="500">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
