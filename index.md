@@ -46,6 +46,9 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
   </li>    
     <li>
     <b>[Oct-2020]</b> Attended <a href="https://nvidianews.nvidia.com/news/nvidia-announces-gtc-2020-keynote-with-ceo-jensen-huang-set-for-may-14">NVIDIA GTC-2020 </a> conference virtually. 
-  </li>    
+  </li>  
+      <li>
+    <b>[Aug-2019]</b> I was awarded participation grant for 3rd IAPR Summer School on Document Analysis, Islamabad, Pakistan. <a href="http://pprs.org.pk/events/ssda2019.html">(more details) </a>
+  </li>   
 </ul> 
 
