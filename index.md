@@ -21,7 +21,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[Nov-2021]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
   </li>  
   <li>
-    <b>[Dec-2021]</b> Our team won third position in <b> Hack for Space hackathon organized by G42 and #CodersHQ!</b>
+    <b>[Dec-2021]</b> Our team won third position in Hack for Space hackathon organized by G42 and #CodersHQ!
   </li>  
     <li>
     <b>[Nov-2021]</b> Our team won first position in Agrithon challenge, organized by Abu Dhabi Agriculture and Food Security Authority! <a href="https://mbzuai.ac.ae/news-events/Innovating-Agritech-serving-the-nation">(more details) </a>
