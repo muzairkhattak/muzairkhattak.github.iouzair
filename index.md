@@ -33,7 +33,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
     <b>[Aug-2021]</b> I Joined <a href="https://mbzuai.ac.ae">MBZUAI</a> as a Computer Vision graduate research student.
   </li>
     <li>
-      <b>[July-2021]</b> Participated in AI workshop <b><<a href="https://ai-lounge.com/ai-news/">AI at the Edge”</a></b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas.
+      <b>[July-2021]</b> Participated in AI workshop <b><a href="https://ai-lounge.com/ai-news/">AI at the Edge”</a></b> as technical instructor. Led workshop labs on NN quantization techniques using PyTorch and Brevitas.
   </li>    
     <li>
     <b>[April-2021]</b> Our undergraduate project titled <b>"Whole Slide Image Scanner with Deep Learning Applications"</b> won rector's Gold Medal award, NUST, Pakistan. <a href="">(presentation slides) </a>
