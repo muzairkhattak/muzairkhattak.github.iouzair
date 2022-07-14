@@ -12,3 +12,9 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
 </p>
 
 ## What's New!
+
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
