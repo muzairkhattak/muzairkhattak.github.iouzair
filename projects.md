@@ -17,7 +17,33 @@ Below, I have enlisted selected academic projects.
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/finegrain_project.jpeg' width="500">
+<img src='files/isaid_project.png' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Object Detection with Satellite Images</strong></font>
+  <br>
+ <a href="https://github.com/muzairkhattak/OD-Satellite-iSAID">Code</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/OD-Satellite-iSAID/blob/OD_SatteliteImages/projects/OD_satellite_iSAID/technical_report.pdf">Technical report</a>
+  <ul>
+    <li>
+ to be filled</li>
+            <li>
+ to be filled </li>
+  </ul>
+</td>
+
+</tr>    
+        
+
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
+<img src='files/finegrain_project.jpeg' width="500" style="width:200px;height: auto;">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
@@ -60,7 +86,7 @@ Below, I have enlisted selected academic projects.
 pretraining dataset size. </li>
         <li>
   Benchmarked pretrained Vision Transformers and ResNets on downstream datasets CIFAR10,
-CIFAR100 and CUB-200 </li>
+CIFAR100 and CUB-200. </li>
   </ul>
 </td>
 
