@@ -24,7 +24,7 @@ Below, I have enlisted selected academic projects.
 
 <font color="black"><strong>Low-Cost Whole Slide Image (WSI) Scanner with Deep Learning Applications</strong></font>
   <br>
-  <a href="https://github.com/muzairkhattak/facial-mask-detector-MTCNN">Code/GitHub </a>
+  <a href="https://github.com/muzairkhattak/Image-Stitching-Results">GitHub</a>&nbsp;/&nbsp;<a href="https://www.linkedin.com/posts/muhammad-uzair-khattak-204ba1150_deeplearning-embedded-medicalimaging-activity-6777129681457029120--pj9?utm_source=linkedin_share&utm_medium=member_desktop_web">Project Demo</a>
   <ul>
     <li>
   We designed a Low-Cost WSI scanner to generate Whole Slide Images and perform Artificial Intelligence applications on the generated slides.
