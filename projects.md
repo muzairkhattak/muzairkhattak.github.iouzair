@@ -11,6 +11,37 @@ Below, I have enlisted selected academic projects.
 <br>
 <br>
 
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
+<img src='files/pose_project.jpeg' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Understanding the limitations of CNN based pose regressions models for Scene Localization</strong></font>
+  <ul>
+    <li>
+  I worked on a research project to understand the drift of SOTA CNN based pose regression models, MapNet and
+PoseNet with large spatial datasets.</li>
+            <li>
+  Used custom created dataset ”1-KM” (dataset in which the translation scale of the trajectory is long i-e ~1KM)) to benchmark CNN based pose regression models. </li>
+        <li>
+  Visualized the 2-D projections from 3D poses on test images for both ground-truth poses and MapNet/PoseNet predicted poses. </li>
+  </ul>
+</td>
+
+</tr>    
+        
+</tbody>
+</table>
+
+
+
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
 <tbody>
 
