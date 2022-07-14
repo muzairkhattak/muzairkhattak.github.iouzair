@@ -11,6 +11,38 @@ Below, I have enlisted selected academic projects.
 <br>
 <br>
 
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
+<img src='files/stitch_project.gif' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Low-Cost Whole Slide Image (WSI) Scanner with Deep Learning Applications</strong></font>
+  <br>
+  <a href="https://github.com/muzairkhattak/facial-mask-detector-MTCNN">Code/GitHub </a>
+  <ul>
+    <li>
+  We designed a Low-Cost WSI scanner to generate Whole Slide Images and perform Artificial Intelligence applications on the generated slides.
+images</li>
+            <li>
+  Implemented prototype of electrical scanning system (using RAMPS 1.4 and Arduino Mega) for acquisition of Bio-medical
+images, using 3D printed structures and electronic circuits. Designed schematics and PCB of hardware circuitry in EAGLE. </li>
+        <li>
+  Developed Image stitching algorithm in Python using OPENCV, Numpy and scikit-learn libraries. Used cross-correlation
+and Laplacian blending to acquire results comparable with a commercial stitching software. </li>
+  </ul>
+</td>
+
+</tr>    
+        
+</tbody>
+</table>
+
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
 <tbody>
