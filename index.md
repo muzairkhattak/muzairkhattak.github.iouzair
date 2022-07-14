@@ -1,8 +1,8 @@
-<ul>
-  <li><a class="active" href="index">Profile</a></li>
-  <li><a href="projects">Projects</a></li>
-  <li><a href="about">About</a></li>
-  <li><a href="files/MuhammadUzairKhattak.pdf">Resume</a></li>
+<ul class="ul_class">
+  <li class="li_class"><a class="active" href="index">Profile</a></li>
+  <li class="li_class"><a  class="li_class"href="projects">Projects</a></li>
+  <li class="li_class"><a class="li_class" href="about">About</a></li>
+  <li class="li_class"><a class="li_class" href="files/MuhammadUzairKhattak.pdf">Resume</a></li>
 </ul>
 
 <p align="center"><img src="files/uzair.png" alt="Avatar" style="align:center;width:200px;height:auto"></p>
