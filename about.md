@@ -1,4 +1,4 @@
-<ul>
+<class="sticky" ul>
   <li><a href="index">Profile</a></li>
   <li><a href="projects">Projects</a></li>
   <li><a class="active" href="about">About</a></li>
