@@ -17,6 +17,69 @@ Below, I have enlisted selected academic projects.
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
+<img src='files/transformers_project.jpeg' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Transformers transforming Vision</strong></font>
+  <br>
+ <a href="https://github.com/muzairkhattak/transformers-transforming-vision">Code</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/transformers-transforming-vision/blob/main/transformerstransformingvision_project_report.pdf">Technical report</a>
+  <ul>
+    <li>
+ Explored vision transformers for image classification including ViTs, DeiTs and T2T-ViTs.</li>
+            <li>
+  We compared ViTs and DeiTs with CNN models (ResNets) and evaluated their performance scalability capabilities w.r.t
+pretraining dataset size. </li>
+        <li>
+  Benchmarked pretrained Vision Transformers and ResNets on downstream datasets CIFAR10,
+CIFAR100 and CUB-200 </li>
+  </ul>
+</td>
+
+</tr>    
+        
+</tbody>
+</table>
+
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
+<img src='files/tensorrt_project.gif' width="500">
+</div>
+</td>
+<td style="padding:20px;width:50%;vertical-align:middle">
+
+<font color="black"><strong>Optimizing Deep Learning models with TensorRT</strong></font>
+
+  <ul>
+    <li>
+ In this work, I explored NVIDIA TensorRT library in Python to optimize AI models (YOLOv4, ResNets) to increase real time inference
+performance on NVIDIA embedded edge devices including Jetson Nano and Jetson TX2.</li>
+            <li>
+  Explored DL model’s optimization techniques including weights quantization, layer fusion and kernel auto-tuning
+supported by TensorRT. </li>
+        <li>
+  Performance metrics: FPS, total inference time and accuracy were compared before and after optimization. </li>
+  </ul>
+</td>
+
+</tr>    
+        
+</tbody>
+</table>
+
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
+<tbody>
+
+<tr>
+<td style="padding:20px;width:50%;vertical-align:middle">
+<div class="one">
 <img src='files/stitch_project.gif' width="500">
 </div>
 </td>
