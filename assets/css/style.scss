@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-ul_class {
+ul.sticky {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -10,11 +10,11 @@ ul_class {
   background-color: #333;
 }
 
-li_class {
+ul.sticky li {
   float: left;
 }
 
-li_class a {
+ul.sticky li a {
   display: block;
   color: white;
   text-align: center;
@@ -22,7 +22,7 @@ li_class a {
   text-decoration: none;
 }
 
-li_class a:hover:not(.active) {
+ul.sticky li a:hover:not(.active) {
   background-color: #111;
 }
 
