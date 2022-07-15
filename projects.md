@@ -27,9 +27,11 @@ Below, I have enlisted selected academic projects.
  <a href="https://github.com/muzairkhattak/OD-Satellite-iSAID">Code</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/OD-Satellite-iSAID/blob/OD_SatteliteImages/projects/OD_satellite_iSAID/technical_report.pdf">Technical report</a>
   <ul>
     <li>
- to be filled</li>
+ Usually, architectures of object detection AI models are well-tailored and configured to be used with tasks dealing with natural images (COCO, PASCAL etc). In this work, we study that directly using the available object detectors, specifically the vanilla Faster RCNN with FPN is sub-optimal for aerial OD.      </li>
             <li>
- to be filled </li>
+ To help improve its performance, we tailor the Faster R-CNN architecture and propose several modifications including changes in architecture in different blocks of detector, training & transfer learning strategies, loss formulations, and other pre-post processing techniques. </li>    
+    <li>
+      By adopting the proposed modifications on top of the vanilla Faster-RCNN, we push the performance of the model and achieve an absolute gain of <b>4.44 AP</b> over the vanilla Faster R-CNN on the iSAID validation set.</li>
   </ul>
 </td>
 
