@@ -111,7 +111,7 @@ CIFAR100 and CUB-200. </li>
 
 <font color="black"><strong>Image Stitching Using Homography Techniques</strong></font>
   <br>
- <a href="">Code</a>&nbsp;/&nbsp;<a href="">Technical report</a>
+ <a href="files/cv702.pdf">Technical report</a>
   <ul>
     <li>
  In this project, we revisited the classical techniques for image stitching. We explored different feature detectors and descriptors techniques (SIFT, SURF etc.) to obtain robust feature points to be used for image stitching.</li>
