@@ -17,9 +17,9 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
    <li>
      <b>[June-2022]</b> I attended CVPR-2022 Computer Vision conference virtually.
   </li>  
-<!--      <li>
+     <li>
      <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">Transformers in Vision</a>.
-  </li>   -->
+  </li>  
       <li>
     <b>[Feb-2022]</b> Our team won second position in Road & Transport Authority - RTA TRANSPORT HACKATHON, Dubai, 2022! <a href="https://mbzuai.ac.ae/news-events/Students-solve-real-world-challenges">(more details) </a>
   </li>  
