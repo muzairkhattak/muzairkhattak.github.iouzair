@@ -14,6 +14,12 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
 ## What's New!
 
  <ul>
+     <li>
+     <b>[Oct-2022]</b> Our work on multi-modal prompt learning for CLIP is now available! <a href="https://muzairkhattak.github.io/multimodal-prompt-learning/">(project page)</a>.
+  </li>  
+   <li>
+     <b>[Sept-2022]</b> Our work on Object-centric Open-Vocabulary object detection got accepted into NeurIPS'22! Congratulations to all co-authors  <a href="https://hanoonar.github.io/object-centric-ovd/">(project page)</a>.
+  </li>  
    <li>
      <b>[June-2022]</b> I attended CVPR-2022 Computer Vision conference virtually.
   </li>  
