@@ -14,6 +14,12 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
 ## What's New!
 
  <ul>
+       <li>
+     <b>[Oct-2022]</b> Serving as a volunteer for <a href="https://nips.cc/virtual/2022/workshop/49962"><b>Vision Transformers: Theory and applications</b></a> workshop at ACCV-2022 and NeurIPS-2022.
+  </li>  
+       <li>
+     <b>[Oct-2022]</b> I Attended NeurIPS-2022 conference virtually.
+  </li>  
      <li>
      <b>[Oct-2022]</b> Our work on multi-modal prompt learning for CLIP is now available! <a href="https://muzairkhattak.github.io/multimodal-prompt-learning/">(project page)</a>.
   </li>  
@@ -21,7 +27,7 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
      <b>[Sept-2022]</b> Our work on Object-centric Open-Vocabulary object detection got accepted into NeurIPS'22! Congratulations to all co-authors  <a href="https://hanoonar.github.io/object-centric-ovd/">(project page)</a>.
   </li>  
    <li>
-     <b>[June-2022]</b> I attended CVPR-2022 Computer Vision conference virtually.
+     <b>[June-2022]</b>I Attended CVPR-2022 Computer Vision conference virtually.
   </li>  
      <li>
      <b>[April-2022]</b> Serving as a reviewer at TPAMI Special Issue on <a href="https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-transformer-models-in-vision">Transformers in Vision</a>.
