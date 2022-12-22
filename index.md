@@ -14,8 +14,14 @@ Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student in th
 ## What's New!
 
  <ul>
+           <li>
+     <b>[Dec-2022]</b> Serving as a reviewer for CVPR-2023.
+  </li>  
+         <li>
+     <b>[Dec-2022]</b> Our work on effectively fine-tuning CLIP on video understanding tasks is now available. Checkout our project page <a href="https://muzairkhattak.github.io/ViFi-CLIP/"><b>here!</b></a>
+  </li>  
        <li>
-     <b>[Oct-2022]</b> Serving as a volunteer for <a href="https://nips.cc/virtual/2022/workshop/49962"><b>Vision Transformers: Theory and applications</b></a> workshop at ACCV-2022 and NeurIPS-2022.
+     <b>[Dec-2022]</b> Serving as a volunteer for <a href="https://nips.cc/virtual/2022/workshop/49962"><b>Vision Transformers: Theory and applications</b></a> workshop at ACCV-2022 and NeurIPS-2022.
   </li>  
        <li>
      <b>[Oct-2022]</b> I Attended NeurIPS-2022 conference virtually.
