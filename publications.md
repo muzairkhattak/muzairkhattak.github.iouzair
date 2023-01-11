@@ -17,7 +17,7 @@
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/attention_temporal.webp' width="500">
+<img src='files/attention_temporal.png' width="500">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
@@ -27,6 +27,7 @@
   Hanoona Rasheed*, **Muhammad Uzair Khattak***, Muhammad Maaz, Salman Khan, Fahad Khan
     <br>
 <a href="https://muzairkhattak.github.io/ViFi-CLIP/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2212.03640">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/ViFi-CLIP">Code</a>
+<br>
 <br>
  We revisit and formulate a baseline to adapt CLIP for video action recognition tasks. ViFi-CLIP (Video Fine-tuned CLIP) performs competitive to more complex approaches having dedicated components designed to model temporal information in videos.
 </td>
@@ -40,7 +41,7 @@
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/MaPLe.webp' width="500">
+<img src='files/maple.png' width="500">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
@@ -50,7 +51,8 @@
   **Muhammad Uzair Khattak**, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Khan
     <br>
 <a href="https://muzairkhattak.github.io/multimodal-prompt-learning/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2210.03117">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/multimodal-prompt-learning">Code</a>
-
+<br>
+<br>
 A novel Prompt Learning framework to adapt both vision and language branches of CLIP to improve alignment between the vision and language representations.
 MaPLe demonstrates state-of-the-art results towards novel categories, cross-dataset transfer and datasets with domain shifts.
 </td>
@@ -76,7 +78,8 @@ MaPLe demonstrates state-of-the-art results towards novel categories, cross-data
   Adnan Khan*, **Muhammad Uzair Khattak***, Khaled Dawoud*
     <br>
 <a href="https://github.com/muzairkhattak/OD-Satellite-iSAID/blob/OD_SatteliteImages/projects/OD_satellite_iSAID/ICAIoT_2022.pdf">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/OD-Satellite-iSAID">Code</a>
-
+<br>
+<br>
 
 Usually, architectures of object detection AI models are well-tailored and configured to be used with tasks dealing with natural images (COCO, PASCAL etc). In this work, we study that directly using the available object detectors, specifically the vanilla Faster RCNN with FPN is sub-optimal for aerial OD and the Faster R-CNN architecture and propose several modifications including changes in architecture in different blocks of detector, training & transfer learning strategies, loss formulations, and other pre-post processing techniques and achieve an absolute gain of 4.44 AP over the vanilla Faster R-CNN on the iSAID validation set.
 </td>
@@ -93,7 +96,7 @@ Usually, architectures of object detection AI models are well-tailored and confi
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/ovd.webp' width="500">
+<img src='files/tSNE_plots.png' width="500">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
@@ -103,7 +106,8 @@ Usually, architectures of object detection AI models are well-tailored and confi
  *Hanoona Rasheed, *Muhammad Maaz, **Muhammad Uzair Khattak**, Salman Khan, Fahad Khan
     <br>
 <a href="https://hanoonar.github.io/object-centric-ovd/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2207.03482">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/hanoonaR/object-centric-ovd">Code</a>
-
+<br>
+<br>
 In this work, we propose to solve the Open-vocabulary detection (OVD) problem using pretrained CLIP model, adapting it for object-centric local regions using region-based distillation and image-level weak supervision. Specifically, we propose to utilize high-quality class-agnostic and class-specific object proposals via the pretrained mulit-modal vision transformers (MViT). The class-agnostic proposals are used to distill region-specific information from CLIP and class-specific proposals allows us to visually ground large vocabularies. We also introduce a region-conditioned weight transfer method to get complementary benefits from both region-based distillation and image-level supervision.
 </td>
 </tr>    
@@ -124,10 +128,11 @@ In this work, we propose to solve the Open-vocabulary detection (OVD) problem us
 
 <font color="black"><strong>Investigating and Improving Common Loop Closure Failures in Visual SLAM (Under review)</strong></font>
 <br>
-Saran Khaliq, Muhammad Latif Anjum, Wajahat Hussain, **Muhammad Uzair Khattak**, Momen Rasool
+Saran Khaliq, Muhammad Latif Anjum, Wajahat Hussain, <bf>Muhammad Uzair Khattak</bf>, Momen Rasool
 <br>
-a href="https://www.researchsquare.com/article/rs-1822521/v1">Technical report</a>
-
+<a href="https://www.researchsquare.com/article/rs-1822521/v1">Technical report</a>
+<br>
+<br>
 We have found that ORB-SLAM frequently misses loop closures on datasets like KITTI and TUM RGB-D, contrary to
 what has been reported. While the visual place recognition block of the loop closure module has been assumed to be the
 cause of these failures in difficult conditions, we have discovered that it is not the sole reason. Instead, the problem seems to
