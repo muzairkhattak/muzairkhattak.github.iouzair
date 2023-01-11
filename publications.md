@@ -15,7 +15,7 @@
 <tbody>
 
 <tr>
-<td style="padding:20px;width:50%;vertical-align:middle">
+<td style="padding:20px;width:10%;vertical-align:middle">
 <div class="one">
 <img src='files/attention_temporal.png' width="500">
 </div>
@@ -39,7 +39,7 @@
 <tbody>
 
 <tr>
-<td style="padding:20px;width:50%;vertical-align:middle">
+<td style="padding:20px;width:10%;vertical-align:middle">
 <div class="one">
 <img src='files/maple.png' width="500">
 </div>
@@ -66,7 +66,7 @@ MaPLe demonstrates state-of-the-art results towards novel categories, cross-data
 <tbody>
 
 <tr>
-<td style="padding:20px;width:50%;vertical-align:middle">
+<td style="padding:20px;width:10%;vertical-align:middle">
 <div class="one">
 <img src='files/isaid_project.png' width="500">
 </div>
@@ -94,7 +94,7 @@ Usually, architectures of object detection AI models are well-tailored and confi
 <tbody>
 
 <tr>
-<td style="padding:20px;width:50%;vertical-align:middle">
+<td style="padding:20px;width:10%;vertical-align:middle">
 <div class="one">
 <img src='files/tSNE_plots.png' width="500">
 </div>
@@ -119,7 +119,7 @@ In this work, we propose to solve the Open-vocabulary detection (OVD) problem us
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
 <tbody>
 <tr>
-<td style="padding:20px;width:50%;vertical-align:middle">
+<td style="padding:20px;width:10%;vertical-align:middle">
 <div class="one">
 <img src='files/loop_closure.png' width="500">
 </div>
