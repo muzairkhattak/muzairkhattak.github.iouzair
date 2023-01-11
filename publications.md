@@ -17,7 +17,7 @@
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/vifi_clip.png' width="500">
+<img src='files/attention_temporal.webp' width="500">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
@@ -68,7 +68,7 @@ MaPLe demonstrates state-of-the-art results towards novel categories, cross-data
 <tr>
 <td style="padding:20px;width:50%;vertical-align:middle">
 <div class="one">
-<img src='files/vifi_clip.png' width="500">
+<img src='files/object_detection.png' width="500">
 </div>
 </td>
 <td style="padding:20px;width:50%;vertical-align:middle">
