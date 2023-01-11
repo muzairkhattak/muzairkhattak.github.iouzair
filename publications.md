@@ -24,7 +24,7 @@
 
 <font color="black"><strong>Fine-tuned CLIP models are efficient video learners  (Under review)</strong></font>
   <br>
-  Hanoona Rasheed*, **Muhammad Uzair Khattak***, Muhammad Maaz, Salman Khan, Fahad Khan
+  Hanoona Rasheed*, <b>Muhammad Uzair Khattak*</b>, Muhammad Maaz, Salman Khan, Fahad Khan
     <br>
 <a href="https://muzairkhattak.github.io/ViFi-CLIP/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2212.03640">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/ViFi-CLIP">Code</a>
 <br>
@@ -48,7 +48,7 @@
 
 <font color="black"><strong>MaPLe: Multi-modal Prompt Learning  (Under review)</strong></font>
   <br>
-  **Muhammad Uzair Khattak**, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Khan
+  <b>Muhammad Uzair Khattak</b>, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Khan
     <br>
 <a href="https://muzairkhattak.github.io/multimodal-prompt-learning/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2210.03117">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/multimodal-prompt-learning">Code</a>
 <br>
@@ -75,7 +75,7 @@ MaPLe demonstrates state-of-the-art results towards novel categories, cross-data
 
 <font color="black"><strong>Object Detection in Aerial Images: A Case Study on Performance Improvement [ICAIoT 2022]</strong></font>
   <br>
-  Adnan Khan*, **Muhammad Uzair Khattak***, Khaled Dawoud*
+  Adnan Khan*, <b>Muhammad Uzair Khattak*</b>, Khaled Dawoud*
     <br>
 <a href="https://github.com/muzairkhattak/OD-Satellite-iSAID/blob/OD_SatteliteImages/projects/OD_satellite_iSAID/ICAIoT_2022.pdf">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/muzairkhattak/OD-Satellite-iSAID">Code</a>
 <br>
@@ -103,7 +103,7 @@ Usually, architectures of object detection AI models are well-tailored and confi
 
 <font color="black"><strong>Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection  [NeurIPS-2022]</strong></font>
   <br>
- *Hanoona Rasheed, *Muhammad Maaz, **Muhammad Uzair Khattak**, Salman Khan, Fahad Khan
+ *Hanoona Rasheed, *Muhammad Maaz, <b>Muhammad Uzair Khattak</b>, Salman Khan, Fahad Khan
     <br>
 <a href="https://hanoonar.github.io/object-centric-ovd/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2207.03482">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/hanoonaR/object-centric-ovd">Code</a>
 <br>
@@ -128,7 +128,7 @@ In this work, we propose to solve the Open-vocabulary detection (OVD) problem us
 
 <font color="black"><strong>Investigating and Improving Common Loop Closure Failures in Visual SLAM (Under review)</strong></font>
 <br>
-Saran Khaliq, Muhammad Latif Anjum, Wajahat Hussain, <bf>Muhammad Uzair Khattak</bf>, Momen Rasool
+Saran Khaliq, Muhammad Latif Anjum, Wajahat Hussain, <b>Muhammad Uzair Khattak</b>, Momen Rasool
 <br>
 <a href="https://www.researchsquare.com/article/rs-1822521/v1">Technical report</a>
 <br>
