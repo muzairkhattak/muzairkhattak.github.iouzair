@@ -104,7 +104,7 @@ Usually, architectures of object detection AI models are well-tailored and confi
 
 <font color="black"><strong>Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection  [NeurIPS-2022]</strong></font>
   <br>
- *Hanoona Rasheed, *Muhammad Maaz, <b>Muhammad Uzair Khattak</b>, Salman Khan, Fahad Khan
+ Hanoona Rasheed*, Muhammad Maaz*, <b>Muhammad Uzair Khattak</b>, Salman Khan, Fahad Khan
     <br>
 <a href="https://hanoonar.github.io/object-centric-ovd/">Project page</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2207.03482">Technical report</a>&nbsp;/&nbsp;<a href="https://github.com/hanoonaR/object-centric-ovd">Code</a>
 <br>
