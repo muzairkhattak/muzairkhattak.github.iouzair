@@ -9,6 +9,7 @@
 
 ## Publications
 <br>
+<p> * denotes equally contributing authors </p>
 <br>
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-color:white">
