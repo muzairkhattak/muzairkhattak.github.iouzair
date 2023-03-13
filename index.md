@@ -9,16 +9,19 @@
 <p align="center"><img src="files/uzair.png" alt="Avatar" style="align:center;width:200px;height:auto"></p>
 
 <p align="justify">
-Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student, affilated with <a href="https://www.ival-mbzuai.com//">Intelligent Visual Analytics Lab</a> at <a href="https://mbzuai.ac.ae">Mohamed Bin Zayed University of Artificial Intelligence </a>. I am advised by <a href="https://salman-h-khan.github.io/">Dr. Salman Khan</a> and <a href="https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en">Dr. Fahad Khan</a>. My research focus is on <b>object recognition and detection using multi-modal (text and vision) transformers </b>. Currently, I am carrying research on <b>generalization and prompt learning for adapting large-scale vision-language models for few-shot and zero-shot learning for images and videos</b>. 
+Hi, I am Muhammad Uzair Khattak, a Computer Vision Master research student, affilated with <a href="https://www.ival-mbzuai.com//">Intelligent Visual Analytics Lab</a> at <a href="https://mbzuai.ac.ae">Mohamed Bin Zayed University of Artificial Intelligence </a>. I am advised by <a href="https://salman-h-khan.github.io/">Dr. Salman Khan</a> and <a href="https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en">Dr. Fahad Khan</a>. My research focus is on adapting foundational multi-modal models for vision tasks including object recognition, detection and video action recognition</b>. Currently, I am carrying research on <b>generalization and prompt learning for adapting large-scale vision-language models for few-shot and zero-shot learning for images and videos</b>. 
 </p>
 
 <p align="justify" style="color:MediumSeaGreen;"> I am currently applying for Ph.D. in Computer Science/ Computer Vision for Fall 2023! I am interested in multi-modal understanding and generalization tasks for mainstream computer vision tasks.</p>
 
 ## What's New!
 
- <ul>
-           <li>
-     <b>[Dec-2022]</b> Serving as a reviewer at CVPR-2023.
+ <ul>     
+  <li>
+     <b>[Feb-2022]</b> Serving as a reviewer at ICML'23 and ICCV'23.
+  </li>  
+             <li>
+     <b>[Feb-2022]</b> Our works on <a href="https://muzairkhattak.github.io/ViFi-CLIP/">adapting CLIP for videos</a> and <a href="https://muzairkhattak.github.io/multimodal-prompt-learning/">multi-modal prompt learning</a> got accpted into CVPR'23! Congratulations to all co-authors!
   </li>  
          <li>
      <b>[Dec-2022]</b> Our work on effectively fine-tuning CLIP on video understanding tasks is now available!<a href="https://muzairkhattak.github.io/ViFi-CLIP/"> (project page).</a>
